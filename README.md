@@ -1,6 +1,6 @@
-![Adobe Express - 게시물 삭제](https://github.com/user-attachments/assets/791bd51b-4b19-4e39-9792-5adda2ba23df)# 우리의 가전, WooGa
 
-> <span style="font-size: 1.8em; font-weight: bold; color: #f6c743;">돈은 아끼고, 필요한 가전만 똑똑하게 쓰자!</span>
+
+ <span style="font-size: 1.8em; font-weight: bold; color: #f6c743;">돈은 아끼고, 필요한 가전만 똑똑하게 쓰자!</span>
 
 <img width="1432" height="253" alt="wooga logo" src="https://github.com/user-attachments/assets/ffb531ca-93c8-4311-86fc-2d0f72a27a4e" />
 <br><br>
